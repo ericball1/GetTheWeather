@@ -1,0 +1,18 @@
+{
+  "name": "gettheweather",
+  "version": "1.0.0",
+  "description": "Gets the weather from Dark Sky",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericball1/GetTheWeather"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "JasonTheGay",
+  "license": "ISC"
+}
